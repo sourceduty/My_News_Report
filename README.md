@@ -11,6 +11,9 @@ My News Report operates through a step-by-step, multiple-choice process to guide
 Additionally, My News Report offers the option to create custom images for the report using DALL-E 3, enhancing the visual appeal and engagement of the news content. Users are prompted to decide if they want an image to accompany their report, adding a layer of customization and creativity. This feature allows for a more dynamic and visually enriched news experience, catering to the diverse needs and interests of the users.
 
 #
+![News](https://github.com/user-attachments/assets/1f7c8bf4-bd2d-484b-b0f8-96d7431f0ec5)
+
+#
 ### Related Links
 
 [Newspaper Maker](https://chat.openai.com/g/g-SRHSPE2Q6-newspaper-maker)
